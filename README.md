@@ -3,4 +3,9 @@
 ## Simple Linear Regression
 code snippet that allows you to predict the used car prices.
 
-data set : https://www.kaggle.com/datasets/ersany/car-price-prediction
+dataset : https://www.kaggle.com/datasets/ersany/car-price-prediction
+
+## KNN
+code snippet classifies the type of glass
+
+dataset : https://www.kaggle.com/datasets/uciml/glass
