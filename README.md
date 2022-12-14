@@ -13,3 +13,9 @@ dataset : https://www.kaggle.com/datasets/uciml/glass
 ## Cluster K Means
 
 dataset: https://www.kaggle.com/code/prashant111/k-means-clustering-with-python/data
+
+## cifar10 
+classification using neural network
+
+dataset info: https://keras.io/api/datasets/cifar10/
+
